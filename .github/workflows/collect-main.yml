@@ -44,8 +44,8 @@ jobs:
         run: |
           echo -e "\nDirectory Contents"
           ls -lAhS . ${{ vars.COLLECTOR }}
-          echo -e "\nDirectory Size"
-          du -hd1 . ${{ vars.COLLECTOR }}
+          echo -e "\n\nDirectory Size"
+          du -hd1 . ${{ vars.COLLECTOR }}/*
 
       - name: TARchive Skopeo Output
         run: |

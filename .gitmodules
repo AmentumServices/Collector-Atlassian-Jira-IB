@@ -4,6 +4,3 @@
 [submodule "jira-lts-ib"]
 	path = jira-lts-ib
 	url = https://repo1.dso.mil/dsop/atlassian/jira-data-center/jira-lts.git
-[submodule "crowd-ib"]
-	path = crowd-ib
-	url = https://repo1.dso.mil/dsop/atlassian/crowd-data-center.git
