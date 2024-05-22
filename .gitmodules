@@ -4,9 +4,6 @@
 [submodule "jira-lts-ib"]
 	path = jira-lts-ib
 	url = https://repo1.dso.mil/dsop/atlassian/jira-data-center/jira-lts.git
-[submodule "fisheye-crucible-ib"]
-	path = fisheye-crucible-ib
-	url = https://repo1.dso.mil/dsop/atlassian/fisheye-crucible.git
 [submodule "crowd-ib"]
 	path = crowd-ib
 	url = https://repo1.dso.mil/dsop/atlassian/crowd-data-center.git
