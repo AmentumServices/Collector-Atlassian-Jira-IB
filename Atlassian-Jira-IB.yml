@@ -1,4 +1,3 @@
 registry1.dso.mil:
     images-by-tag-regex:
-        ironbank/atlassian/jira-data-center/jira-node-lts: ^9.12.12$
-        ironbank/atlassian/jira-data-center/jira-node: ^9.17.2$
+        ironbank/atlassian/jira-data-center/jira-node-lts: ^9.12.16$
